@@ -1,0 +1,3 @@
+$user = 'root';
+$pass = 'RsfWHg7F';
+$path = '1013535';
